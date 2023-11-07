@@ -1,6 +1,7 @@
 
 # Gbits - Financial Transactions as a Service
-__Mit unseren Bankkonten können wir Zahlungen zwecks 'Pipe Cleaning' durchführen, 'ad hoc' oder 'scheduled'.__  
+Mit Gbits können sie die Banking-Funktionaliäten __in Produktion überprüfen__. Dank manuellen und automatisierten Test Transaktionen können sie die End-to-End Funktionalität in der Produktionsumgebung einfach überprüfen bzw. __'Pipe Cleaning'__ machen - einmalig oder wiederkehrend. Aktuell sind SIC CHF Zahlungen im Fokus.
+
 [English version](https://www.example.org/) | [Francais](https://www.example.org/)  
 
 __[book a demo](https://www.example.org/)__ | Tel. <a href="tel:+41789230003">+41 ...</a> | Email: info@gbits.io | Web: <a href="">gbits.io</a>  
