@@ -1,10 +1,11 @@
 
 # Gbits - Financial Transactions as a Service
+[Deutsch](https://www.example.org/) | [English](https://www.example.org/) | [Français](https://www.example.org/)  
+
 Mit Gbits können sie die Banking-Funktionaliäten __in Produktion überprüfen__. Dank manuellen und automatisierten Test Transaktionen können sie die End-to-End Funktionalität in der Produktionsumgebung einfach überprüfen bzw. __'Pipe Cleaning'__ machen - einmalig oder wiederkehrend. Aktuell sind SIC CHF Zahlungen im Fokus.
 
-[English version](https://www.example.org/) | [Francais](https://www.example.org/)  
 
-__[book a demo](https://www.example.org/)__ | Tel. <a href="tel:+41789230003">+41 ...</a> | Email: info@gbits.io | Web: <a href="">gbits.io</a>  
+__[book a demo](https://www.example.org/)__ | __Tel. <a href="tel:+41789230003">+41 123 45 67</a>__ | __Email: info@gbits.io | Web: <a href="">gbits.io</a>__  
 
 
 
