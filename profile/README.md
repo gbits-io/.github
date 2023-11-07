@@ -26,9 +26,23 @@ Nutzen sie Gbits GmbH als Testkunde für Tests in UAT und in PROD bzw. während 
    <details>
    <summary>Für Transactions as a Service (Taas) unterhalten wir Bankkonten und andere Accounts.</summary>
       <br >
-   <p>UBS (Schweiz) Bankkonto  </p>
-   <p>Raiffeisenbank  </p>
-   <p>Z&uuml;rcher Kantonalbank</p>   
+<table>
+  <tr>
+    <th>Bank</th>
+    <th>IBAN</th>
+    <th>Beneficial Owner</th>
+  </tr>
+  <tr>
+    <td>UBS (Schweiz) AG</td>
+    <td>CH23498322982 </td>
+    <td>Gbits GmbH, Zürich</td>
+  </tr>
+  <tr>
+    <td>Raiffeisenbank </td>
+    <td>CH7373733737</td>
+    <td>Gbits GmbH, Zürich</td>
+  </tr>
+</table>
    </details>  
 
 ### Ein nicht-sensibler Kunde
