@@ -3,9 +3,9 @@
 __Mit unseren Bankkonten können wir Zahlungen zwecks 'Pipe Cleaning' durchführen, 'ad hoc' oder 'scheduled'.__  
 [English version](https://www.example.org/) | [Francais](https://www.example.org/)
 ### Kontakt
-Tel. <a href="tel:+41789230003">+41 ...</a> | Email: info@gbits.io | Web: <a href="">gbits.io</a>  
+__[book a demo](https://www.example.org/)__ | Tel. <a href="tel:+41789230003">+41 ...</a> | Email: info@gbits.io | Web: <a href="">gbits.io</a>  
 
-__[book a demo](https://www.example.org/)__
+
 
 ### Unser Fokus
 Im Jahr 2024 ist liegt unser Fokus auf SIC Instant Payments transactions.  
