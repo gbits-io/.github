@@ -1,8 +1,8 @@
 
 # Gbits - Financial Transactions as a Service
 __Mit unseren Bankkonten können wir Zahlungen zwecks 'Pipe Cleaning' durchführen, 'ad hoc' oder 'scheduled'.__  
-[English version](https://www.example.org/) | [Francais](https://www.example.org/)
-### Kontakt
+[English version](https://www.example.org/) | [Francais](https://www.example.org/)  
+
 __[book a demo](https://www.example.org/)__ | Tel. <a href="tel:+41789230003">+41 ...</a> | Email: info@gbits.io | Web: <a href="">gbits.io</a>  
 
 
