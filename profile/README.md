@@ -42,6 +42,21 @@ Nutzen sie Gbits GmbH als Testkunde für Tests in UAT und in PROD bzw. während 
     <td>CH7373733737</td>
     <td>Gbits GmbH, Zürich</td>
   </tr>
+     <tr>
+    <td>Z&uuml;rcher Kantonalbank </td>
+    <td>CH7373733737</td>
+    <td>Gbits GmbH, Zürich</td>
+  </tr>
+     <tr>
+    <td>PostFinance </td>
+    <td>CH7373733737</td>
+    <td>Gbits GmbH, Zürich</td>
+  </tr>
+        <tr>
+    <td>Credit Suisse </td>
+    <td>CH7373733737</td>
+    <td>Gbits GmbH, Zürich</td>
+  </tr>
 </table>
    </details>  
 
