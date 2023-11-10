@@ -24,7 +24,7 @@ Nutzen sie Gbits GmbH als Testkunde für Tests in UAT und in PROD bzw. während 
 
 ### Unser Accounts für Test Transaktionen
    <details>
-   <summary>Für Transactions as a Service (Taas) unterhalten wir Bankkonten und andere Accounts.</summary>
+   <summary>Für Transactions as a Service (Taas) unterhalten wir Bankkonten und andere Accounts, inbesondere bei den systemrelevanten Banken.</summary>
       <br >
 <table>
   <tr>
