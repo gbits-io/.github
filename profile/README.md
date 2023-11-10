@@ -7,7 +7,9 @@ Mit Gbits können sie die Banking-Funktionaliäten __in Produktion überprüfen_
 
 __[book a demo](https://www.example.org/)__ | __Tel. <a href="tel:+41789230003">+41 123 45 67</a>__ | __Email: info@gbits.io | Web: <a href="">gbits.io</a>__  
 
+### Video
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 ### Unser Fokus
 Im Jahr 2024 ist liegt unser Fokus auf SIC Instant Payments transactions.  
