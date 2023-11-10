@@ -9,7 +9,11 @@ __[book a demo](https://www.example.org/)__ | __Tel. <a href="tel:+41789230003">
 
 ### Video
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+Test:
+
+https://github.com/gbits-io/.github/assets/110880/cc9eda98-6a1d-42c7-a9ec-c1773b78791d
+
+
 
 ### Unser Fokus
 Im Jahr 2024 ist liegt unser Fokus auf SIC Instant Payments transactions.  
