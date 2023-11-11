@@ -7,12 +7,12 @@ Mit Gbits können sie die Banking-Funktionaliäten __in Produktion überprüfen_
 
 __[book a demo](https://www.example.org/)__ | __Tel. <a href="tel:+41789230003">+41 123 45 67</a>__ | __Email: info@gbits.io | Web: <a href="">gbits.io</a>__  
 
-### Video
+<!-- ### Video
 
 Test:
 
 https://github.com/gbits-io/.github/assets/110880/cc9eda98-6a1d-42c7-a9ec-c1773b78791d
-
+-->
 
 
 ### Unser Fokus
