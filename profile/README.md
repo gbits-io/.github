@@ -35,31 +35,37 @@ Nutzen sie Gbits GmbH als Testkunde für Tests in UAT und in PROD bzw. während 
 <table>
   <tr>
     <th>Bank</th>
+     <th>Alias</th>
     <th>IBAN</th>
     <th>Beneficial Owner</th>
   </tr>
   <tr>
     <td>UBS (Schweiz) AG</td>
+     <td>UBS-CHF-1</td>
     <td>CH23498322982 </td>
     <td>Gbits GmbH, Zürich</td>
   </tr>
   <tr>
     <td>Raiffeisenbank </td>
+     <td>RAIF-CHF-1</td>
     <td>CH7373733737</td>
     <td>Gbits GmbH, Zürich</td>
   </tr>
      <tr>
     <td>Z&uuml;rcher Kantonalbank </td>
+        <td>ZKB-CHF-1</td>
     <td>CH7373733737</td>
     <td>Gbits GmbH, Zürich</td>
   </tr>
      <tr>
     <td>PostFinance </td>
+        <td>PF-ZKB-1</td>
     <td>CH7373733737</td>
     <td>Gbits GmbH, Zürich</td>
   </tr>
         <tr>
     <td>Credit Suisse </td>
+           <td>CS-CHF-1</td>
     <td>CH7373733737</td>
     <td>Gbits GmbH, Zürich</td>
   </tr>
