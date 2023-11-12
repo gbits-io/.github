@@ -80,3 +80,6 @@ Schnell, einfach, effizient, preiswert - die Zusammenarbeit mit Gbits GmbH.
 
 ### Preisliste 2024
 Die Preise werden in der Pilotphase bzw. für das Jahr 2024 Q1 und Q2 individuell vereinbart.
+
+### Experimente
+Wenn wir Zeit finden, experimentieren wir auch ein bisschen mit neuen Technologien und Lösungen.
