@@ -5,7 +5,7 @@
 Mit der Firma Test Prod GmbH können sie die Banking-Funktionaliäten __in Produktion überprüfen__. Dank manuellen und automatisierten Test Transaktionen können sie die End-to-End Funktionalität in der Produktionsumgebung einfach überprüfen bzw. __'Pipe Cleaning'__ machen - einmalig oder wiederkehrend. Aktuell sind SIC CHF Zahlungen im Fokus.
 
 
-__[book a demo](https://www.example.org/)__ | __Tel. <a href="tel:+41789230003">+41 123 45 67</a>__ | __Email: info@gbits.io | Web: <a href="">gbits.io</a>__  
+__[book a demo](https://www.example.org/)__ | __Tel. <a href="tel:+41789230003">+41 123 45 67</a>__ | __Email: info@testprod.ch | Web: <a href="">testprod.ch</a>__  
 
 <!-- ### Video
 
