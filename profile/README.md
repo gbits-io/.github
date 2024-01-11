@@ -1,12 +1,13 @@
+<sup> [Deutsch](https://www.example.org/) | [English](https://www.example.org/) | [Français](https://www.example.org/)  </sup>
 
-## Test Prod GmbH as beta test customer 
-## Test Transactions in Production
-[Deutsch](https://www.example.org/) | [English](https://www.example.org/) | [Français](https://www.example.org/)  
+## Die Firma für Test Transaktionen in der Produktionsumgebung
+Payments | eBanking | Trading | Digital Assets
+<br ><br >
 
-Mit der Firma Test Prod GmbH können sie die Banking-Funktionaliäten __in Produktion überprüfen__. Dank manuellen und automatisierten Test Transaktionen können sie die End-to-End Funktionalität in der Produktionsumgebung einfach überprüfen bzw. __'Pipe Cleaning'__ machen - einmalig oder wiederkehrend. Aktuell sind SIC CHF Zahlungen im Fokus.
+__Tel. <a href="tel:+41789230003">+41 123 45 67</a>__ | __Email: info@testprod.ch | Web: <a href="">testprod.ch</a>__  | __[book a demo](https://www.example.org/)__ 
 
-
-__[book a demo](https://www.example.org/)__ | __Tel. <a href="tel:+41789230003">+41 123 45 67</a>__ | __Email: info@testprod.ch | Web: <a href="">testprod.ch</a>__  
+<br >
+  
 
 <!-- ### Video
 
@@ -16,20 +17,18 @@ https://github.com/gbits-io/.github/assets/110880/cc9eda98-6a1d-42c7-a9ec-c1773b
 -->
 
 
-### Unser Fokus
 Im Jahr 2024 ist liegt unser Fokus auf SIC Instant Payments transactions.  
 
-### Verzicht auf Bankkundengeheimnis
-Nutzen sie Test Prod GmbH als Testkunde für Tests in UAT und in PROD bzw. während der Pilotphase. 
-   <details>
-   <summary>Warum?</summary>
-      <ol>
-      <li>Test-Accounts in der Produktionsumgebung sind bei Audits ein Problem.</li>
-      <li>Im Zusammenspiel mit einigen Plattformen dürfen in der Testumgebung keine Daten aus PROD verwendet werden.</li>
-         </ol>
-   </details>
+### CID Daten und Verzicht auf Bankkundengeheimnis gegen eine Gebühr
+Nutzen sie Test Prod GmbH als Testkunde für Tests in UAT und in PROD bzw. während der Pilotphase. Die Treiber dafür sind:
+* Test-Accounts in der Produktionsumgebung sind bei Audits ein Problem.
+* Im Zusammenspiel mit einigen Plattformen dürfen in der Testumgebung keine Daten aus PROD verwendet werden.
+* Einfachere Kommunikation durch Verwendung echter Kundendaten (CID) in Dokumentationen und bei Testfällen
 
-### Unser Accounts für Test Transaktionen
+### Die test prod GmbH ist ein nicht sensibler Firmenkunde für Testing
+Tests in PROD mit/gegen test prod GmbH können auch mal schiefgehen, ohne dass ein Image-Schaden für ihre Firma entsteht.
+
+### Unsere Accounts für Test Transaktionen
    <details>
    <summary>Für Transactions as a Service (Taas) unterhalten wir Bankkonten und andere Accounts, inbesondere bei den systemrelevanten Banken.</summary>
       <br >
@@ -73,8 +72,6 @@ Nutzen sie Test Prod GmbH als Testkunde für Tests in UAT und in PROD bzw. währ
 </table>
    </details>  
 
-### Ein nicht-sensibler Kunde
-Tests in PROD mit/gegen Gbits GmbH können auch mal schiefgehen, ohne Image-Schaden.  
 
 ### Zusammenarbeit 
 Schnell, einfach, effizient, preiswert - die Zusammenarbeit mit Gbits GmbH.  
@@ -83,4 +80,4 @@ Schnell, einfach, effizient, preiswert - die Zusammenarbeit mit Gbits GmbH.
 Die Preise werden in der Pilotphase bzw. für das Jahr 2024 Q1 und Q2 individuell vereinbart.
 
 ### Experimente
-Wenn wir Zeit finden, experimentieren wir auch ein bisschen mit neuen Technologien und Lösungen.
+Wenn wir Zeit finden, experimentieren wir auch mit neuen Technologien und Lösungen.
