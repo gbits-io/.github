@@ -29,12 +29,13 @@ Nutzen sie Test Prod GmbH als Testkunde für Tests in UAT und in PROD bzw. währ
 Tests in PROD mit/gegen test prod GmbH können auch mal schiefgehen, ohne dass ein Image-Schaden für ihre Firma entsteht.
 
 ### Unsere Accounts für Test Transaktionen
-   <details>
-   <summary>Für Transactions as a Service (Taas) unterhalten wir Bankkonten und andere Accounts, inbesondere bei den systemrelevanten Banken.</summary>
-      <br >
+Für Transactions as a Service (Taas) unterhalten wir Bankkonten und andere Accounts, inbesondere bei den systemrelevanten Banken.
+  
+#### Liste der Bankkonten
+
 <table>
   <tr>
-    <th>Bank</th>
+    <th>Bank</th>  <details>
      <th>Alias</th>
     <th>IBAN</th>
     <th>Beneficial Owner</th>
@@ -70,7 +71,11 @@ Tests in PROD mit/gegen test prod GmbH können auch mal schiefgehen, ohne dass e
     <td>Gbits GmbH, Zürich</td>
   </tr>
 </table>
-   </details>  
+
+#### Accounts für Test Transaktionen zu Digitalen Assets und DeFi:
+* testprod.eth
+* testprod.sol
+
 
 
 ### Zusammenarbeit 
