@@ -73,7 +73,7 @@ Für Transactions as a Service (Taas) unterhalten wir Bankkonten und andere Acco
 </table>
 
 #### Accounts für Test Transaktionen zu Digitalen Assets und DeFi:
-Livenets -> Ethereum: testprod.eth | Solana: testprod.sol
+Livenets -> Ethereum: **testprod.eth** | Solana: **testprod.sol** | Bitcoin: tbd
 
 ### Zusammenarbeit 
 Schnell, einfach, effizient, preiswert - die Zusammenarbeit mit Gbits GmbH.  
